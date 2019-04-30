@@ -18,7 +18,7 @@ namespace hwapp
             myNum = myNum * 2;
             myNum *= 2;
 
-            bool isAwesome = true;
+            int otherNum = 8;
         }
     }
 }
