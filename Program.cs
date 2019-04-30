@@ -19,6 +19,7 @@ namespace hwapp
             myNum *= 2;
 
             int otherNum = 8;
+            //This isn't working
         }
     }
 }
